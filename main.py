@@ -107,25 +107,12 @@ listTwo = ["pineapple", "strawberries", "apple", "orange", "pineapple", "apple"]
 # Using the two sets you made, create a union set by using the union() function like we did above.
 
 
-
-
-
-
-
 # Create a function that takes a number as a string. Ex: "100"
 # The function should print "Your lucky number is 100"! 
 # Depending on the number used for the argument, it should print different lucky numbers. 
 
 # Ex: luckyNum("1000") --> "Your lucky number is 1000"
 # Ex: luckyNum("25") --> "Your lucky number is 25"
-
-
-
-
-
-
-
-
 
 
 # arr = ['a', 'b', 'c', 'a', 'a', 'b']
